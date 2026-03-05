@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db-shm
+*.db-wal
+main.py
+remoteok_async_scraper.py
+wwr_scraper.py
+old_snippets.txt
+test-2.txt
+Job_aggregator_demo/
+job-aggregator-app/
